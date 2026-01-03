@@ -1,5 +1,5 @@
 Prodigy InfoTech Data Science Internship Task 2:
-<br> <img src="https://github.com/pavanitanmayasri/Prodigy-InfoTech-DataScience-Internship/blob/main/ds2.png">
+<br> <img src="https://github.com/pavanitanmayasri/Prodigy-InfoTech-DataScience-Internship-Task-2/blob/main/ds2.png">
 
 Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech.
 In this task, I focused on data cleaning, preprocessing, and exploratory data analysis (EDA) to understand the dataset structure, handle inconsistencies, and identify meaningful patterns using statistical and visualization techniques.
